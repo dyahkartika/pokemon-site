@@ -1,5 +1,5 @@
 
-import { Heading, Image, HStack, Center, VStack } from "@chakra-ui/react";
+import { Heading, Image, HStack, VStack } from "@chakra-ui/react";
 const Home = () => {
   return (
     <div>
